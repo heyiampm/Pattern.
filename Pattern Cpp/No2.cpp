@@ -1,4 +1,4 @@
-// character print (ABCD)    
+// character pattern (ABCD)    
 
 #include<iostream>
 using namespace std;
